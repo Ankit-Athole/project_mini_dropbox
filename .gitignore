@@ -6,6 +6,7 @@ __pycache__/
 env/
 venv/
 uploads/
+backend/files.db
 
 # Node / React
 node_modules/
@@ -16,3 +17,11 @@ dist/
 *.log
 .DS_Store
 .env
+.vscode/
+.idea/
+
+# React Cache
+.cache/
+
+# Windows OS trash
+Thumbs.db
